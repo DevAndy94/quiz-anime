@@ -1,0 +1,44 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+   font-family: cursive;
+  }
+
+div {
+    padding: 20px 50px 7px 20px;
+  }
+
+img {
+    width: 20%;
+    height: auto;
+    position: relative;
+    top: 100px;
+  }
+
+.header {
+    font-family: cursive; 
+    text-align: center;
+    padding: 20px;
+  }
+  body {
+    
+    background-color:  lightblue;
+  }
+
+.relative {
+    position: relative;
+    top: 125px;
+    right: 150px;
+  }
+.relative-dragon{
+    position: relative;
+    top: 125px;
+    right: 60px;
+  }
+
+  .relative-naruto{ 
+    position: relative;
+    top: 125px;
+    right: 60px;
+  }
+  
